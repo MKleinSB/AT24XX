@@ -1,8 +1,8 @@
 {
-    "AT24CXX.write_byte|block": "向 eeprom 地址 %addr|写入一个字节 %dat",
-    "AT24CXX.read_byte|block": "从 eeprom 地址 %addr 读取一个字节",
-    "AT24CXX.write_word|block": "向 eeprom 地址 %addr|写入一个节 %dat",
-    "AT24CXX.read_word|block": "从 eeprom 地址 %addr 读取一个字",
-    "AT24CXX.write_dword|block": "向 eeprom 地址 %addr|写入一个双字 %dat",
-    "AT24CXX.read_dword|block": "从 eeprom 地址 %addr 读取一个双字"
+    "AT24CXX.write_byte|block": "schreibe auf Adresse %addr|das Byte %dat| (8 Bit)",
+    "AT24CXX.read_byte|block": "lies ein Byte von Adresse %addr",
+    "AT24CXX.write_word|block": "schreibe auf Adresse %addr|das Word %dat| (2 Byte)",
+    "AT24CXX.read_word|block": "lies ein Word von Adresse %addr",
+    "AT24CXX.write_dword|block": "schreibe auf Adresse %addr|das dWord %dat| (4 Byte)",
+    "AT24CXX.read_dword|block": "lies ein dWord von Adresse %addr"
 }

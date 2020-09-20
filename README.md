@@ -10,9 +10,9 @@ Date:   2018.May
 
 ## usage
 
-open your microbit makecode project, in Add Package, paste  
+open your makecode project, in Add Package, paste  
 
-https://github.com/microbit-makecode-packages/AT24CXX  
+https://github.com/MKleinSB/AT24CXX 
 
 to search box then search.
 
